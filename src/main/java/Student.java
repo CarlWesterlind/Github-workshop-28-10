@@ -4,6 +4,7 @@ public class Student {
     private int mobileNumber;
     private String email;
     private String phoneNumber;
+
     public Student(String name) {
         this.name = name;
     }
