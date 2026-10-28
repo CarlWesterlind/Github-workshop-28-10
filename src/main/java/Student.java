@@ -1,6 +1,7 @@
 public class Student {
     private String name;
     private int age;
+    private int mobileNumber;
     private String email;
     public Student(String name) {
         this.name = name;
